@@ -4,18 +4,18 @@
 
 **ChronosGit** is a Git wrapper that gives your history a dimension Git never had: time. Declare when an external API, an AI model, a regulation, or a function stops being valid, and enforce that expiration automatically — with warnings, blocked commits/pushes, or `deprecated` marking — before it becomes a production incident.
 
-> 🔒 This repository is the **public showcase** of ChronosGit. The full source code lives in a private repository, and access is granted automatically and instantly right after purchase.
+> 🔒 This repository is the **public showcase** of ChronosGit. The full source code lives in a private repository, and access is granted as a GitHub collaborator invitation after purchase.
 
 ---
 
 ## 🚀 Get Instant Access
 
-Access to the private ChronosGit repository is granted as a GitHub collaborator invitation once your payment is confirmed, through a webhook that connects your payment to the GitHub API.
+One-time payment, **$46 USD** (the same payment link is shared across several of Eduar's private showcases). Access to the private ChronosGit repository is granted as a GitHub collaborator invitation once your payment is confirmed, through a webhook that connects your payment to the GitHub API.
 
 ### How it works
 
 1. **Click the PayPal button** below to complete your purchase.
-2. **Important:** the PayPal form has a **notes / special instructions for seller** field. Enter your **exact GitHub username** there (the same one you'll log in with, e.g. `octocat`) — this is **required** so the system can send you the invitation.
+2. **Important:** the PayPal form has a **notes / special instructions for seller** field. Enter **your GitHub username and `ChronosGit`, separated by `/`** there — e.g. `octocat / ChronosGit` — this is **required** so the system knows both who you are and which repository to invite you to (this link is shared across several products).
 3. Once the payment is confirmed, the webhook invites that GitHub account as a collaborator on the private repository.
 4. Check your email or your GitHub notifications: a collaborator invitation will arrive that you need to **accept** to get access.
 
