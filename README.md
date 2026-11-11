@@ -10,16 +10,16 @@
 
 ## 🚀 Get Instant Access
 
-Access to the private ChronosGit repository is unlocked **automatically** within minutes, through a webhook that connects your payment to the GitHub API.
+Access to the private ChronosGit repository is granted as a GitHub collaborator invitation once your payment is confirmed, through a webhook that connects your payment to the GitHub API.
 
 ### How it works
 
 1. **Click the PayPal button** below to complete your purchase.
 2. **Important:** the PayPal form has a **notes / special instructions for seller** field. Enter your **exact GitHub username** there (the same one you'll log in with, e.g. `octocat`) — this is **required** so the system can send you the invitation.
-3. As soon as the payment is confirmed, the webhook automatically invites that GitHub account as a collaborator on the private repository.
+3. Once the payment is confirmed, the webhook invites that GitHub account as a collaborator on the private repository.
 4. Check your email or your GitHub notifications: a collaborator invitation will arrive that you need to **accept** to get access.
 
-> ⚠️ If your GitHub username is missing or misspelled in the payment notes, the invitation can't be sent automatically and will need to be resolved manually through support — double-check it before confirming.
+> ⚠️ If your GitHub username is missing or misspelled in the payment notes, the invitation can't be sent and will need to be resolved manually through support — double-check it before confirming.
 
 [![Buy with PayPal](https://img.shields.io/badge/Buy_with-PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://www.paypal.com/ncp/payment/KN78NFJJBQFEY)
 
@@ -65,10 +65,10 @@ Access to the private ChronosGit repository is unlocked **automatically** within
 ## ❓ Frequently Asked Questions (FAQ)
 
 **How long does it take to get access after paying?**
-The process is automatic: you'll typically receive the GitHub collaborator invitation within minutes of payment confirmation.
+The invitation is sent once payment is confirmed; if it doesn't arrive shortly, contact support with your payment receipt.
 
 **What if I forgot to add my GitHub username to the payment notes?**
-Contact us with your payment receipt and correct GitHub username, and your access will be activated manually.
+Contact support with your payment receipt and correct GitHub username, and your access will be activated manually.
 
 **Does the invitation grant lifetime access or is it a subscription?**
 Access corresponds to a collaborator invitation to the private repository under the terms stated on the purchase page.
@@ -99,7 +99,6 @@ Get instant access to the ChronosGit private repository right now.
 More tools from the same author:
 
 - **[LocalVectorSync](https://github.com/Evangelikcaos/local-vector-sync)** — local-first, privacy-native vector search engine for Node/Tauri/Electron, with optional encrypted S3/R2 sync.
-- **[VectorStock CLI](https://github.com/Evangelikcaos/vector-stock-cli)** — sanitizes SVGs and auto-generates AI metadata for Adobe Stock, Freepik, and Shutterstock uploads.
+- **[VectorStock CLI](https://github.com/Evangelikcaos/vector-stock-cli)** — open-source CLI that sanitizes SVGs and auto-generates AI metadata for Adobe Stock, Freepik, and Shutterstock uploads.
 - **[ASTify](https://github.com/Evangelikcaos/AStify-app)** — AI-guided AST-based diff pruner that cuts LLM context tokens 70-80% in PR/CI code review.
 - **[ArtemisMock](https://github.com/Evangelikcaos/ArtemisMock-app)** — fully local, AI-guided real-time mock API server generated from OpenAPI/Prisma schemas.
-- **[VectorStock CLI](https://github.com/Evangelikcaos/vector-stock-cli)** — open-source CLI: sanitizes SVGs and auto-generates AI metadata for stock marketplace uploads.
